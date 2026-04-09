@@ -9,6 +9,9 @@
 - 🌱 Learning new tools and frameworks every day.
 - 💬 Feel free to reach out for tech discussions or project collaborations.
 - 📫 How to reach me: [raffaelsilverio on LinkedIn](https://linkedin.com/in/raffaelsilverio)
+- 
+### 📄 Resume
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive&logoColor=white)](./CV_Raffael_Silverio.pdf)
 
 ### 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
