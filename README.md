@@ -24,9 +24,9 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
  ### 📊 My Stats
-![Raffael's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=raffaelsilverio&show_icons=true&theme=radical)
+![Raffael's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=raffaelsilverio&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raffaelsilverio&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raffaelsilverio&layout=compact&theme=radical&cache_seconds=1800)
 --- 
 
 
