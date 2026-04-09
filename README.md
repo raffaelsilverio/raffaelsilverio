@@ -7,11 +7,12 @@
 ---
 
 ### 🚀 About Me
+- 💻 Software Engineer at @aRBe-IT
 - 🔭 Currently working on improving my software development skills.
 - 🌱 Learning new tools and frameworks every day.
 - 💬 Feel free to reach out for tech discussions or project collaborations.
 - 📫 How to reach me: [raffaelsilverio on LinkedIn](https://linkedin.com/in/raffaelsilverio)
-- 
+  
 ### 📄 Resume
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive&logoColor=white)](./Raffael_CV.pdf)
 
