@@ -1,3 +1,5 @@
+<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Raffael%20Silverio&fontSize=90)-->
+
 # Hi, I'm Raffael Silverio 👋
 
 > Passionate Software Developer focused on building efficient, scalable, and high-performance solutions.
