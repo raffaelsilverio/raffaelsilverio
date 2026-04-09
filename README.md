@@ -17,10 +17,11 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 📊 My Stats
-![Raffael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffaelsilverio&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaelsilverio&layout=compact&theme=radical&cache_seconds=1800)
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=raffaelsilverio&show_icons=true&theme=radical" alt="raffaelsilverio's stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaelsilverio&layout=compact&theme=radical" alt="raffaelsilverio's languages" />
+</p>
 ---
 
 ### 🔗 Connect with me
