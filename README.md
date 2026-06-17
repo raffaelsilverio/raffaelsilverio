@@ -11,8 +11,6 @@
 - 💡 **Indie Hacker:** I’m passionate about building independent SaaS products that solve real problems.
 - 🏗️ **Product Mindset:** Currently architecting and developing a private **SaaS for Psychologists in Brazil**, focusing on security, patient data privacy, and workflow optimization.
 - 🔭 Always working on improving my software development skills. 
-- 💬 Feel free to reach out for tech discussions or project collaborations.
-- 📫 How to reach me: [raffaelsilverio on LinkedIn](https://linkedin.com/in/raffaelsilverio)
   
 ### 📄 Resume
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive&logoColor=white)](./Raffael_CV.pdf)
