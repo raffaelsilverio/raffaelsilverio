@@ -2,12 +2,12 @@
 
 # Hi, I'm Raffael Silverio 👋
 
-> Software Developer focused on building efficient, scalable, and high-performance solutions.
+> Software Developer and Security Researcher.
 
 ---
 
 ### 🚀 About Me
-- 💻 Software Engineer at @aRBe-IT
+- 💻 Software Engineer 
 - 💡 **Indie Hacker:** I’m passionate about building independent SaaS products that solve real problems.
 - 🏗️ **Product Mindset:** Currently architecting and developing a private **SaaS for Psychologists in Brazil**, focusing on security, patient data privacy, and workflow optimization.
 - 🔭 Always working on improving my software development skills. 
