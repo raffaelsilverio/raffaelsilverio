@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 Software Engineer 
+- 💻 Software Engineer & Security Researcher
 - 💡 **Indie Hacker:** I’m passionate about building independent SaaS products that solve real problems.
 - 🏗️ **Product Mindset:** Currently architecting and developing a private **SaaS for Psychologists in Brazil**, focusing on security, patient data privacy, and workflow optimization.
 - 🔭 Always working on improving my software development skills. 
